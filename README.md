@@ -1,21 +1,20 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:ff61a6&height=180&section=header&text=Hi%20I'm%201Tatsumi2%20🏳️‍🌈&fontSize=38&fontAlign=50&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Hi%20I'm%201Tatsumi2%20💪&fontSize=38&fontAlign=50&fontColor=ffffff" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF61A6&center=true&vCenter=true&width=435&lines=Welcome+to+my+colorful+space!;Proudly+LGBTQ%2B+in+Tech+%F0%9F%8C%88;Fullstack+Developer+%7C+IT+Enthusiast;Love+is+Love+%F0%9F%92%9C+Code+is+Life" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0072FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;IT+Engineer+%7C+Fullstack+Developer;Always+learning+new+things+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🌈 About Me
+## 👨 About Me
 
-- 🏳️‍🌈 Proud LGBTQ+ coder, passionate about diversity and inclusion in tech!
+- 💪 Strong-willed, passionate IT developer.
 - 👨‍💻 Fullstack developer, always exploring new technologies.
-- 🌱 Lifelong learner, advocate for open source and equality.
-- 💬 Pronouns: he/him
-- 🏆 My goal: Build beautiful, inclusive, and impactful digital experiences.
+- 🌱 Lifelong learner, focused on building robust and scalable systems.
+- 🏆 My goal: Deliver high-quality, impactful digital solutions.
 
 ---
 
@@ -40,8 +39,8 @@
 
 ## ✨ Featured Projects
 
-- [**E-commerce Platform**](https://github.com/1Tatsumi2/E-commerce): Modern, scalable, and inclusive shopping experience.
-- [**Portfolio Website**](https://github.com/1Tatsumi2/portfolio): My personal portfolio, built with React and love.
+- [**E-commerce Platform**](https://github.com/1Tatsumi2/E-commerce): Modern, scalable shopping experience.
+- [**Portfolio Website**](https://github.com/1Tatsumi2/portfolio): My personal portfolio, built with React and .NET.
 - [**Open Source Contributions**](https://github.com/1Tatsumi2?tab=repositories): Check out my open source work!
 
 ---
@@ -66,9 +65,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1Tatsumi2&label=Profile+Views&color=ff61a6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=1Tatsumi2&label=Profile+Views&color=0072ff&style=flat" alt="profile views"/>
 </p>
 
 ---
 
-> 🌈 *“Be proud. Be visible. Be you. And keep coding!”*
+> *“Strength and growth come only through continuous effort and struggle.”* – Napoleon Hill
